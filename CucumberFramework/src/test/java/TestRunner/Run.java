@@ -34,8 +34,7 @@ import org.junit.runner.RunWith;
     dryRun = false,
     monochrome = true,
     plugin = {"pretty", "html:target/cucumber-reports/reports1.html"}
-	  n   
-	 
+	  
 )
 public class Run {
 }
